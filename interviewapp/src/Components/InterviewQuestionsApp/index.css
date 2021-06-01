@@ -18,8 +18,9 @@
 }
 .start-button
 {
-    background-color:lightblue;
+    background-color:linen;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
     width:150px;
     height:40px;
     border-radius: 10px;
@@ -29,7 +30,13 @@
     font-weight: bold;
     margin-bottom: 50px;
     margin-top:10px;
+    box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
+    
 }
+.start-button:hover{
+    background-color:forestgreen;
+}
+
 .button-container
 {
     text-align: center;
