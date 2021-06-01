@@ -1,0 +1,36 @@
+.app-container{
+    background-color:#7cc6fe;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top:20px;
+}
+.heading
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    
+    margin-bottom:0px;
+    padding-bottom: 0px;
+}
+.start-button
+{
+    background-color:lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    width:150px;
+    height:40px;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    border-width: 0px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-top:10px;
+}
+.button-container
+{
+    text-align: center;
+}
